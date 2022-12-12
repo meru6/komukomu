@@ -6,6 +6,6 @@
   <title>ムギ</title>
 </head>
 <body>
-  ようこそ
+  <h1>ムギっこサイトへようこそ
 </body>
 </html>
