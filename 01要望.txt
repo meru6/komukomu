@@ -1,0 +1,51 @@
+要望のあるものが記載されている。
+各番号は不可能な場面に陥った際に利用する番号である。
+
+01：フォント
+・Zen Old Mincho
+・Sawarabi Gothic
+のどちらかを使うこと。
+＊MSは禁止
+
+02：レイアウト　-part1
+参考　-- https://sign-hair.tokyo/
+・スクロールに応じて背景の変化をつけること。
+
+03：レイアウト　-part2
+参考　-- https://hsarchitect.jp/
+・スクロールした際にメニューが追従すること。
+・背景に応じてメニューの色が変化し、見やすくすること。
+
+04：レイアウト　-part3
+参考　-- https://stonemuseum.jp/
+・リンク系の文字においてホバー時に下線部分を表示すること。
+・下線部分の表示する際に動きをつけること。
+
+05：レイアウト　-part4
+・初期表示でロゴを画面全体に表示。
+・スクロール時にフェードアウトする形で従来の画面に切り替わること。
+・2秒経過でキービジュを表示(可能であれば)
+
+06：レイアウト　-part5
+参考　-- https://hololive.hololivepro.com/talents/tokino-sora
+参考　-- https://mahoyaku.com/1st/
+・ヘッダー
+    ・スクロール時にTOPより狭まること。
+    ・TOPに戻ったときはTOP時と同じ幅に戻ること。
+    ・文字色は金色にすること。
+
+07：背景　-part1
+・ダークチックにすること。
+
+08：背景　-part1
+参考　-- https://hololive.hololivepro.com/talents/tokino-sora
+・キービジュを背景に固定すること。
+
+09：プロフィール
+参考　-- https://hololive.hololivepro.com/talents/tokino-sora
+・左側にキービジュを配置すること。
+・立ち絵に切替可能にすること。
+
+10：項目
+・「企画」という項目を入れること。
+    後にリンクが送付されるため、<a herf = ""><a>で用意しておくこと。
